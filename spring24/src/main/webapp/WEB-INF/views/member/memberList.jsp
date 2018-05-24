@@ -34,5 +34,6 @@
 	<tr>
 </table>
 <%-- 	${memberList } --%>
+브렌치 dev 적용
 </body>
 </html>
